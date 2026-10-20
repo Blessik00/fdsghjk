@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.pulse.pvp.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["SwingSpeedMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
